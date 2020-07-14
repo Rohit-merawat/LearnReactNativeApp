@@ -27,6 +27,15 @@ Geo-location – only general location may be collected. No street name or city/
 
 * We are using the webView to show the data from the particular url or React-native documented page.
 
+* We are folowing the below policies from the google policy center also.
+- https://support.google.com/googleplay/android-developer/topic/9877466
+- https://support.google.com/googleplay/android-developer/topic/9876963
+- https://support.google.com/googleplay/android-developer/topic/9877467
+- https://support.google.com/googleplay/android-developer/answer/9857753?hl=en&ref_topic=9857752
+- https://support.google.com/googleplay/android-developer/topic/9877064
+- https://support.google.com/googleplay/android-developer/topic/9876964
+- https://support.google.com/googleplay/android-developer/topic/9877766
+
 * Ad Serving Technology
 This app may employ proprietary or third-party ad serving technologies that may use cookies, tracking pixels or other technologies to collect information as a result of ad serving through our Apps/Games as well as to help track results. 
 Some dynamic in-game advertisement serving technology enable advertising to be temporarily uploaded into your App/Game, mobile device and replaced while you are online. 

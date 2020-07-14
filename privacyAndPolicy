@@ -25,6 +25,8 @@ Geo-location – only general location may be collected. No street name or city/
 
 * This app does not allow any personal information to be linked to the persistent identifier, even from other services.
 
+* We are using the webView to show the data from the particular url or React-native documented page.
+
 * Ad Serving Technology
 This app may employ proprietary or third-party ad serving technologies that may use cookies, tracking pixels or other technologies to collect information as a result of ad serving through our Apps/Games as well as to help track results. 
 Some dynamic in-game advertisement serving technology enable advertising to be temporarily uploaded into your App/Game, mobile device and replaced while you are online. 
